@@ -1,0 +1,13 @@
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.exe.config
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.exe
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.pdb
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.csprojResolveAssemblyReference.cache
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.exe
+C:\SVN\autotest-source\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.pdb
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.exe.config
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.exe
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\bin\Debug\Problem2_1.pdb
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.csprojResolveAssemblyReference.cache
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.csproj.CoreCompileInputs.cache
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.exe
+C:\Users\rabimon\Downloads\トレーニング_FY18\トレーニング_FY18\福田理沙\基本編\2日目\問題\Problem2_1\obj\Debug\Problem2_1.pdb
